@@ -1,3 +1,5 @@
+//Scraping NASA's APOD images using NASA's API
+
 const resultsNav = document.getElementById('resultsNav');
 const favouritesNav = document.getElementById('favouritesNav');
 const imagesContainer = document.querySelector('.images-container');
